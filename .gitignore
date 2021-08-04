@@ -1,0 +1,23 @@
+.DS_Store
+*.class
+*.log
+
+# IDEA specific
+.idea
+
+
+target
+ideatarget
+.target
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.tmpBin
+.factorypath
+.settings
+logs
+builds
+.toDelete
+*.iml
